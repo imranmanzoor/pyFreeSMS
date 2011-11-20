@@ -24,5 +24,7 @@ py160by2.sendMessage('username','password','1234567890','message')
 CHANGES
 -------
 
+v1.0.1
+    - Killed a baby
 v1.0.0: Mar 3, 2011
 	- Added support for 160by2
